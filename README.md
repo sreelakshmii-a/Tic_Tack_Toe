@@ -20,7 +20,7 @@ A classic Tic Tac Toe game developed with Python and Pygame, designed with an in
 🚀 How to Download
 
 
-<a href="https://github.com/sreelakshmii-a/TIC_TAC_TOE/releases/download/v1.0.0/GANNME.exe">
+<a href="https://github.com/sreelakshmii-a/Tic_Tack_Toe/releases/download/v1.0.0/GANNME.exe">
   <img src="https://img.shields.io/badge/Download-GANNME.exe-blue?style=for-the-badge" alt="Download EXE">
 </a>
 
